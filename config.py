@@ -44,8 +44,8 @@ class Txt(object):
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/Madflix_Bots>Madflix Botz</a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/MadflixOfficials>Jishu Developer</a>
+├<b>🖥️ Developer</b> : <a href=https://t.me/Stylish_Star2>Madflix Botz</a> 
+├<b>👨‍💻 Programer</b> : <a href=https://t.me/Filmone_Backup>Jishu Developer</a>
 ├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
 ├<b>💾 Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
@@ -75,7 +75,7 @@ class Txt(object):
 
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
 
-𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MadflixOfficials>Developer</a>
+𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Stylish_Star2>Developer</a>
 """
 
     PROGRESS_BAR = """\n
@@ -90,7 +90,7 @@ class Txt(object):
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> `madflixofficial@axl`
+<b>🛍 UPI ID:</b> ``
 """
 
 
@@ -98,9 +98,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By :- @Madflix_Bots</code>
+<code>By :- @Filmone_Backup</code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @Filmone_Backup
 """
 
 
